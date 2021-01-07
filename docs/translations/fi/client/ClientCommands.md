@@ -1,11 +1,11 @@
 ---
-title: "Client Commands"
-descripion: List of all client commands.
+title: "Asiakasohjelman komennot"
+descripion: Lista kaikista asiakasohjelman komennoista.
 ---
 
-| Command        | Description                                                                                                                                                                                                                                                                                                          |
+| Komento        | Kuvaus                                                                                                                                                                                                                                                                                                          |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /quit (/q)     | This command speaks for itself, it quits the game. You can also use /q, as it the exact same command, just shorter.                                                                                                                                                                                                  |
+| /quit (/q)     | Tämä komento puhuu puolestaan, se sammuttaa pelin. Voit myös käyttää komentoa /q, sillä se on tismalleen sama komento, mutta lyhyempi.                                                                                                                                                                                                 |
 | /save          | /save is most likely the most commonly used default command, and probably the most useful. When you type /save, your current position is saved to savedpositions.txt in your user files directory, from where you can use it in scripts.                                                                             |
 | /rs            | /rs (Raw Save) is like /save, but it only saves your current position and facing angle in rawpositions.txt in your user files directory. No extra information is saved such as class and weapons.                                                                                                                    |
 | /interior      | Partly as important as /save, this command simply displays your current interior in chat.                                                                                                                                                                                                                            |
